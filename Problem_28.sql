@@ -10,6 +10,8 @@ from VehicleDetails
 order by VehiclesAge desc
 
 --professional style
-Select VehicleDetails.Vehicle_Display_Name, Year, Age= YEAR(GetDate()) - VehicleDetails.year
+Select VehicleDetails.Vehicle_Display_Name, Year, 
+Age= YEAR(GetDate()) - VehicleDetails.year
 from VehicleDetails
+
 Order by Age Desc
