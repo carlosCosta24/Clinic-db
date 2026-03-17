@@ -1,4 +1,5 @@
 -- Get all vehicles that has one of the Max 3 Engine CC
+-- the same method is used if the task is to find top ten in school 
 
 use VehicleMakesDB;
 
