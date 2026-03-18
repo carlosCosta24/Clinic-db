@@ -1,4 +1,4 @@
---Get Make and Total Number Of Doors Manufactured Per Make
+--Get Make and Total Number Of Doors Manufactured Per ford
 
 use VehicleMakesDB;
 
