@@ -9,3 +9,4 @@ select max(NumberOfModels) as MaxNumberOfModels from
 	group by Make
 )Result
 
+
